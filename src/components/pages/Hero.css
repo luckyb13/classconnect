@@ -1,0 +1,51 @@
+.header {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+    text-align: center;
+    margin-top: 2rem; /* add this line */
+  }
+  
+  .row {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .col {
+    flex: 1;
+    max-width: 50%;
+  }
+  
+  .text-content h1 {
+    font-size: 48px;
+    font-weight: 500;
+    margin-bottom: 24px;
+  }
+  
+  .text-content p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 32px;
+  }
+  
+  .text-content button {
+    background-color: #5e5ce6;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-right: 16px;
+  }
+  
+  .text-content button:last-child {
+    background-color: #fff;
+    color: #5e5ce6;
+    border: 2px solid #5e5ce6;
+  }
+  
+  .col img {
+    max-width: 100%;
+    height: auto;
+  }

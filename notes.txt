@@ -1,0 +1,5 @@
+
+base color : Coal #282828	Midnight Sea #092230 Cocoa Spice #282622
+green : emerald #028A0F
+
+write code for navbar in react. black navbar with white text LHS company name (code connect). RHS 4 buttons home,notes,resources,about when hover text will change to green color with underline animation
